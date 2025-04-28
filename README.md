@@ -15,16 +15,6 @@ This application provides backend functionality for a small retail shop (Spaza S
 - JPA (Java Persistence API)
 - [Add any other technologies you're using]
 
-## Project Structure
-
-src/
-├── conf/ - Configuration files
-│ ├── MANIFEST.MF
-│ └── persistence.xml
-└── java/za/ac/tut/model/
-├── bl/ - Business logic (Facades)
-└── entity/ - Entity classes
-
 
 
 ## Getting Started
